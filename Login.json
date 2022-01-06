@@ -2,13 +2,13 @@
   "User":[
     {
       "id": 1,
-      "userName": "phuong",
+      "UserName": "phuong",
       "Password": "123",
       "IMG" : "https://speedwash.vn/upload/testimotion/10_avatar-512.png"
     },
     {
       "id": 2,
-      "userName": "phuong",
+      "UserName": "phuong",
       "Password": "123",
       "IMG" : "https://speedwash.vn/upload/testimotion/10_avatar-512.png"
     }
